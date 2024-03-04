@@ -73,14 +73,12 @@ a:hover {
   color: #fcbf49;
 }
 
-article div p {
+article div p, ol li {
   text-align: left;
+  margin: auto;
+  width: 600px;
 }
 
 footer p {
   text-align: center;
-}
-
-ol li {
-  text-align: left;
 }
