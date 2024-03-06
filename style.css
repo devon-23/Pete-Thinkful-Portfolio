@@ -63,6 +63,8 @@ header nav a {
   padding: 0 10px;
 }
 
+/* Link CSS */
+
 a:link {
   color: #d62828;
 }
